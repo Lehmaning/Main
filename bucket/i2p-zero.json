@@ -6,12 +6,7 @@
     "url": "https://github.com/i2p-zero/i2p-zero/releases/download/v1.20/i2p-zero-win.v1.20.zip",
     "hash": "37c38e66a1f4935a21c2514eb4692827834ec8bd9c2dfc11d6871f7a07dbdd16",
     "extract_dir": "i2p-zero-win.v1.20\\router",
-    "bin": [
-        [
-            "bin\\launch.bat",
-            "i2p-zero"
-        ]
-    ],
+    "bin": "i2p-zero.exe",
     "persist": [
         "conf",
         "i2p.base"
